@@ -1,0 +1,20 @@
+{
+  "name": "ilt-js",
+  "version": "1.0.0",
+  "description": "Tugas ILT JS Muhamad Akmal",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon ./index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmalgomal3/ILT-JS-MuhamadAkmal.git"
+  },
+  "author": "Muhamad Akmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmalgomal3/ILT-JS-MuhamadAkmal/issues"
+  },
+  "homepage": "https://github.com/akmalgomal3/ILT-JS-MuhamadAkmal#readme"
+}
